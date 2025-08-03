@@ -40,6 +40,7 @@ public class DNATranscription {
                 }
                 sbMRNA.append(sbRNA.charAt(counter1));
                 counter1++;
+                
             }
 
             System.out.println("Length of DNA sequence: " + sb.length());
